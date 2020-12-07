@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "nombre": "Zanahorias",
+      "precio": "44",
+      "id": 1
+    },
+    {
+      "nombre": "Zapallos",
+      "precio": "30",
+      "id": 2
+    },
+    {
+      "nombre": "Manteca",
+      "precio": "19",
+      "id": 3
+    },
+    {
+      "nombre": "Mandarinas",
+      "precio": "12",
+      "id": 4
+    },
+    {
+      "nombre": "lechuga",
+      "precio": "10",
+      "id": 5
+    },
+    {
+      "nombre": "nafta",
+      "precio": "1000",
+      "id": 6
+    },
+    {
+      "nombre": "Queso",
+      "precio": "25",
+      "id": 9
+    }
+  ]
+}
